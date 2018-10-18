@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Sarah Evans - MLIS Portfolio - Course Information</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="mm_lodging1.css" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {font-size: 14px}
+-->
+</style>
+</head>
+<body bgcolor="#999966">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td width="15" nowrap="nowrap">&nbsp;</td>
+	<td height="60" colspan="3" class="logo" nowrap="nowrap">SARAH EVANS -<span class="style3">Masters of Library and Information Science Portfolio</span> </td>
+	<td width="26">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="5"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#a4c2c2">
+	<td width="15" nowrap="nowrap">&nbsp;</td>
+	<td height="36" colspan="2" id="navigation" class="navText"><a href="index.shtml">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="teaching.shtml">TEACHING</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="leadership.shtml">LEADERSHIP</a>&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; <a href="service.shtml">SERVICE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="intellectual.shtml">INTELLECTUAL</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="technology.shtml">TECHNOLOGY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="current">COURSES</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="reflection.shtml">REFLECTION</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="acknowledgments.shtml">ACKNOWLEDGMENTS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="VerticalResume.pdf" target="_blank">RESUME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:sarahe@u.washington.edu">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;</td>
+	<td width="26">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="5"><img src="mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td valign="top" width="15"><img src="mm_spacer.gif" alt="" width="15" height="1" border="0" /></td>
+	<td valign="top" width="153"><img src="mm_spacer.gif" alt="" width="140" height="1" border="0" /></td>
+	<td width="828" valign="top"><br />
+	<table border="0" cellspacing="0" cellpadding="2" width="635">
+		<tr>
+		<td width="631" class="pageName">Course Studies Information</td>
+		</tr>
+
+		<tr>
+		<td class="bodyText">
+		<p class="sidebarText">(Course descriptions courtesy of <a href="http://www.ischool.washington.edu/courses/descriptions.aspx" title="Course Descriptions - Information School" target="_blank">the Information School</a>) </p>
+		<p><span class="style1"><strong class="subHeader">Required Courses  Studies</strong></span></p>
+		<p><span class="style1"><strong>LIS 500&nbsp; The Life Cycle of Information (2 credits)</strong><br />
+		  Overview of the major concepts, processes and systems, actors, and  operations in the life cycle of information. Introduction to the creation,  publishing and distribution, evaluation and selection, organization, access,  retrieval, and use of information. Exploration of the social context in which  these processes and their stakeholders interact.</span></p>
+		<p><span class="style1"><strong>LIS 510&nbsp; Information Behavior (4 credits)</strong><br />
+		  Introduction to the user-centered approach to information behavior.  Theoretical foundations of various information behaviors such as information  need, utilizing, gathering, seeking, and evaluating. Synthesis of user studies,  construction of user profiles, performance of gap analysis, and application of the  results of user studies to improve services and system design.</span></p>
+		<p class="subHeader">Sample Work - <a href="510Paper.pdf" target="_blank">A suggested model of child information seeking behavior</a> </p>
+		<p><span class="style1"><strong>LIS 520&nbsp; Information Resources, Services, and  Collections (4 credits)</strong><br />
+		  Concepts, processes, and skills related to parts of the life cycle of  knowledge involving creation, production, distribution, selection, collection,  and services to facilitate access. Specific discussion topics include  characteristics of recorded knowledge; organizations and services devoted to  managing access to recorded knowledge; principles associated with development of  recorded knowledge and collections.</span></p>
+		<p class="subHeader">Sample Work - <a href="520Paper.pdf" target="_blank">A user needs statement and bibliography of resources for undergraduate students living in residence halls</a> (Authored jointly with Robert Felthousen and Sarah Lester) </p>
+		<p><span class="style1"><strong>LIS 530&nbsp; Organization of Information and Resources (4  credits)</strong><br />
+		  Introduction to issues in organization of information and documents  including: analysis of intellectual and physical characteristics of documents;  principles and practice in surrogate creation, including standards and  selection of metadata elements; theory of classification, including semantic  relationships and facet analysis; creation of controlled vocabularies; and  display and arrangement.</span></p>
+		<p class="subHeader">Sample Work - <a href="530Paper.pdf" target="_blank">Evaluation of a thesaurus</a> </p>
+		<p><span class="style1"><strong>LIS 540&nbsp; Information Systems, Architectures and  Retrieval (5 credits)</strong><br />
+		  Introduction and overview of information systems, system architectures,  and retrieval models. Emphasis given to the role of users in the design,  development, and evaluation of information retrieval and database management  systems.</span></p>
+		<p class="subHeader">Sample Work - <a href="540Paper.pdf" target="_blank">Librarians perceptions of online resources</a> and <a href="540Fun.pdf" target="_blank">a (silly) parable of information architechture</a> </p>
+		<p><span class="style1"><strong>LIS 550&nbsp; Information in Social Context (4 credits)</strong><br />
+		  Concepts, processes, and issues related to the larger social context  within which the life cycle of knowledge is played out. Discussion topics  include intellectual freedom, information as public/private good, intellectual  property, privacy, confidentiality, information liability, information and  telecommunications policy, the economics of information, and other professional  values. Prerequisite: LIS 500, which may be taken concurrently.</span></p>
+		<p><span class="style1"><strong>LIS 570&nbsp; Research Methods (4 credits)</strong><br />
+		  Research as a process from problem definition and formulation of  questions to design, data collection, analysis, and reporting. Students  recognize research opportunities, translate them into researchable frameworks,  design research projects, and implement results in libraries and other  information agencies.</span></p>
+		<p><span class="style1"><strong>LIS 580&nbsp; Management for Information Organizations (4  credits)</strong><br />
+		  Introduction to internal and external management issues and practices in  information organizations. Internal issues include organizational behavior,  organizational theory, personnel, budgeting, planning. External issues include  organizational environments, politics, marketing, strategic planning, funding  sources.</span></p>
+		<p><span class="style1"><strong class="subHeader">Elective Course  Studies</strong></span></p>
+		<p><span class="style1"><strong>LIS 519 Special Topics in Information Behavior -  Information Behavior in Human-Computer Interaction (3 credits)</strong><br />
+		  Examines the role that Information Behavior has in Human-Computer  Interaction. The premise of this course is that information behavior has an  essential, and under-recognized, role to play in the field of HCI. Introduction  of those theoretical, empirical, and design foundations of HCI that have the  most explicit relationships to information behavior. A focus on recent  developments in HCI, including the study and design of ubiquitous, social,  personified, and robotic technologies, and what information behavior's role  might be in the design and evaluation of these developing technologies.</span></p>
+		<p><span class="style1"><strong>LIS 522&nbsp; Collection Development (3 credits)</strong><br />
+		  Access to materials as context for development and management of library  collections in academic, public, school libraries. Community analysis, library  mission; collection development policies, criteria, levels, responsibilities;  aids to selection; collection evaluation, use studies; controversial materials.</span></p>
+		<p class="subHeader">Sample Work - <a href="522Paper.pdf" target="_blank">Resources for selecting graphic novels</a> </p>
+		<p class="style1"><strong>LIS 529 Special Topics in Information Resources, Services and  Collections - Competitive Intelligence (3 Credits)</strong><br />
+		  Examines competitive intelligence, the use  of business intelligence to promote one's competitive position in the marketplace.  Competitive intelligence can be used to detect competitive threats, to  eliminate or lessen surprises in the marketplace, to enhance competitive  advantage by lessening reaction time, and to find new opportunities. Covers the  basic issues involved in competitive intelligence, including how to gather CI,  basic tools and strategies, strategic thinking for CI, and analyzing and  building upon competitive intelligence once it has been gathered. </p>
+		<p class="subHeader">Sample Work - <a href="CIPaper.pdf" target="_blank">Reflections on competitive intelligence</a> </p>
+		<p class="style1"><strong>LIS 529 Special Topics in Information  Resources, Services and Collections - Electronic Collection Development (3  Credits)</strong><br />
+		  Brief examination of the development and  types of electronic resources will be presented in this course. Consider key  issues in developing electronic resources collections, including selection, human  resources, evaluation, licensing, collection development policies, and  information architecture in the presentation of electronic resources.</p>
+		<p class="subHeader">Sample Work - <a href="http://students.washington.edu/selester/529/main.html" target="_blank">Resources for newly independent teenagers</a> </p>
+		<p class="style1"><strong>LIS 531&nbsp; Catalogs, Cataloging, and Classification (4  credits)</strong><br />
+		  Develops an understanding of library catalogs as information retrieval  systems. Introduces library cataloging and classification. Focus on principles  and standards in the creation of catalogs and cataloging records. Includes  practice in descriptive and subject cataloging and classification. User perspective  emphasized throughout.</p>
+		<p class="style1"><strong>LIS 541&nbsp; Internet Technologies and Applications (3  credits)</strong><br />
+		  Overview of Internet technologies including networking hardware, the  TCP/IP protocol suite, addressing, packets and routing, the client/server  model. End-user applications for communication and collaboration such as  telnet, FTP, email, conferencing, and streaming media. Web site creation,  development, and management.</p>
+		<p class="style1"><strong>LIS 561&nbsp; Storytelling: Art and Techniques (3 credits)</strong><br />
+		  Storytelling, past and present, noting its development as an art form.  Analyzing storytellers materials (folk literature and literary forms)  throughout historical periods. Essential techniques necessary to this artistic  skill. Planning storytelling programs for various ages, interest groups, and  situations, utilizing folk, classic, and contemporary literature.</p>
+		<p class="subHeader">Sample Work - <a href="WhyTellStories.pdf" target="_blank">Statement on storytelling</a>, <a href="Epossumondas4-30.wav" target="_blank">reading of epossumondas</a> and <a href="PickinPeas4-30.wav" target="_blank">telling of Pickin' Peas</a> </p>
+		<p class="style1"><strong>LIS 588&nbsp; Special Librarianship (3 credits)</strong><br />
+		  Seminar in the practice of special librarianship in business and  industrial firms, government agencies, and the free-lance sector. User services  and information resources.</p>
+		<p class="subHeader">Sample Work - <a href="588Presentation.pdf" target="_blank">Proposal for division of library services</a> </p>
+		<p class="style1"><strong>LIS 591&nbsp; Legal Research I (3 credits)</strong><br />
+		  Introduction to legal bibliography and law librarianship. Basic primary  and secondary legal bibliographic tools. Integration of manual and computer  resources for effective legal research. Emphasis on state materials.</p>
+		<p class="subHeader">Sample Work - <a href="591Log.pdf" target="_blank">Legal research log</a> </p>
+		<p class="subHeader"><strong>Out of  Program Studies</strong></a></p>
+		<p class="style1"><strong>IMT 589 Special Topics in Information  Management - Information Architecture (3 Credits)</strong><br />
+		  Information  architecture (IA) is the art and science of organizing and labeling web sites,  software, intranets, and online communities to support usability and  findability. Covers IA&rsquo;s key elements: understanding your users&rsquo; information  needs, building architectural frameworks to store information effectively,  proper organizing and labeling of information for improved navigation, and search  and perceiving opportunities where information architecture can increase  business value. Each of these areas is explored through lectures, interactive  exercises and discussion led by university faculty and industry experts.</p>
+		<p class="style1"><strong>IMT 589 Special Topics in Information  Management - Knowledge Management (3 Credits) </strong><br />
+		  Introduces participants to the conceptual  foundations and current best practices in knowledge management (KM). Covers:  (1) the foundations of KM, such as the fundamental relationships among data, information,  and knowledge, (2) building a learning organization, (3) emerging tools and  techniques for successful KM programs, and (4) critical success factors in KM,  including the latest best practices. Upon successful completion, participants  will be better prepared to identify opportunities to apply KM concepts to  enable improved organizational effectiveness.</p>
+		<p class="style1">		  In addition, I  completed two Directed Fieldwork experiences, each for 2 credits or 100 hours.  My host sites were <a href="http://www.webjunction.org/" target="_blank">WebJunction</a> (Autumn 2005) and <a href="http://pro.corbis.com/" target="_blank">Corbis</a> (Winter 2007).</p></td>
+		</tr>
+	</table>
+	 <br />
+	&nbsp;<br />	</td>
+	<td valign="top">&nbsp;</td>
+	<td width="26">&nbsp;</td>
+	</tr>
+
+	<tr>
+	<td width="15">&nbsp;</td>
+    <td width="153">&nbsp;</td>
+    <td width="828">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+    <td width="26">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
